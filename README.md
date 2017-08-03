@@ -19,7 +19,7 @@
 * **GPIO Joystick at the RaspberryPi**
   - About more install and how to use and description through [here](https://github.com/rasplay/RAS_JoyBOX/tree/master/mk_arcade_joystick_rpi).
 
-* **Support CLCD Function at the RAS Joy-BOX
+* **Support CLCD Function at the RAS Joy-BOX**
   - About more install and how to use and description through [here](https://github.com/rasplay/RAS_JoyBOX/tree/master/RetroPie-Clcd).
 
 
