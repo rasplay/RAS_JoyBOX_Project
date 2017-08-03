@@ -38,7 +38,8 @@ $ sudo ./10.CLCD.sh
 You should check your I2C address of 16x2 CLCD.
 I saw two types of I2C LCD modules. Those are two address each other normally => 0x27 or 0x3f.
 
-<pre><code>$ sudo i2cdetect -y 1
+<pre><code>$ sudo i2cdetect -y 1</code></pre>
+<pre><code>
      0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
 00:          -- -- -- -- -- -- -- -- -- -- -- -- --
 10: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
