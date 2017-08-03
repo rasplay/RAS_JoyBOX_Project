@@ -34,9 +34,8 @@ $ chmod 755 10.CLCD.sh
 $ sudo ./10.CLCD.sh
 </code></pre>
 
-##Check 
-You should check your I2C address of 16x2 CLCD.
-I saw two types of I2C LCD modules. Those are two address each other normally => 0x27 or 0x3f.
+##Check You should check your I2C address of 16x2 CLCD.
+I saw two types of I2C LCD modules. Those are two address each other normally => 0x27 or 0x3f.##
 
 <pre><code>$ sudo i2cdetect -y 1</code></pre>
 <pre><code>
@@ -49,7 +48,7 @@ I saw two types of I2C LCD modules. Those are two address each other normally =>
 50: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 60: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --</code></pre>
 
-edit line #22 in I2C_LCD_driver.py 0x27 or 0x3f.
+## edit line #22 in I2C_LCD_driver.py 0x27 or 0x3f.##
 
 <pre><code>$ cd RetroPie-Clcd/
 $ sudo nano I2C_LCD_driver.py
