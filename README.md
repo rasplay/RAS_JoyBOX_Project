@@ -16,6 +16,10 @@
 
 ![RAS-JoyBOX](https://i.imgur.com/eCt6yDG.jpg)
 
+* **RAS JoyBOX 12T type MDF Case Drawing and Sheet, 2015 Ver.**
+  - MDF Drawing And Sheet [Here](https://github.com/rasplay/RAS_JoyBOX_Project/tree/master/drawing)
+    ※ After this files download, you can do order it on the laser processing station.   
+
 * **GPIO Joystick at the RaspberryPi**
   - About more install and how to use and description through [here](https://github.com/rasplay/RAS_JoyBOX/tree/master/mk_arcade_joystick_rpi).
 
